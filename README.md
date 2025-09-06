@@ -1,60 +1,47 @@
-<h1 align="center">Hi 👋, I'm Bilal Al-Maqtari</h1>
-<h3 align="center">🇾🇪 Aspiring C++ Developer | Passionate about Problem Solving & Clean Code</h3>
+<div align="center" width="50">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
----
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-### 🚀 About Me
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
 
-- 🎓 Self-taught programmer from **Yemen**
-- 💻 Currently learning **C++** in depth
-- ✅ Completed **Data Structures** & **Object-Oriented Programming (OOP)**
-- 🧠 Solving programming problems at my current learning level
-- 🔭 Working on small projects to apply what I learn
-- 📘 Writing notes & summaries in Markdown files across my repos
+</details>
 
----
+![Totals Hits](https://komarev.com/ghpvc/?username=BilalAlmaqtari&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBilalAlmaqtari&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Bilal-grey?style=flat&logo=telegram)](https://t.me/) <br>
+</div>
 
-### 🛠️ Tech Stack
+<hr></hr>
 
-| Language  | Tools       | Concepts                 |
-|-----------|-------------|--------------------------|
-| `C++`     | VS Code     | OOP, Data Structures     |
-| Markdown  | GitHub      | Problem Solving Basics   |
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
+```cpp
+// tools_I_use organized
 
-### 📌 Projects I'm Working On
-
-- ✅ C++ Calculator
-- ✅ Text-based games using OOP
-- ✅ Stack / Queue / Linked List implementations
-- ✅ Practice problems from HackerRank & LeetCode
-- 🔜 "Problem Solving Notebook" — Organized C++ solutions
-
----
-
-### 🧠 Goals I'm Chasing
-
-- Build a strong base in algorithms & logic
-- Solve more real-world problems with C++
-- Collaborate on open source projects in the future
-- Share everything I learn as I grow 👨‍💻
-
----
-
-### 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:bilalalmaqtari65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/bilal-muqatari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">⭐️ Thanks for stopping by! Don’t forget to star the projects you like!</p>
+class About : public Me { 
+  const char* name = "Bilal Almaqtari";
+  const char* email = "bilalalmaqtari65@gmail.com";
+  const myTools = {  
+    "ProgramingLanguages" : { "C++", "Python", "Javascript" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Markdown" },
+    "Editors" : { "Vscode" },
+    "Platforms" : { "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma" }
+  };
+};
