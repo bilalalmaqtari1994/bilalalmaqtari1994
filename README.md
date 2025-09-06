@@ -26,7 +26,7 @@
 | Language  | Tools       | Concepts                 |
 |-----------|-------------|--------------------------|
 | `C++`     | VS Code     | OOP, Data Structures     |
-| Markdown  | Git + GitHub| Problem Solving Basics   |
+| Markdown  | GitHub      | Problem Solving Basics   |
 
 ---
 
