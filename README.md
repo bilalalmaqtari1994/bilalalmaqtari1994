@@ -21,6 +21,7 @@
 - 🎓 &nbsp;Completed the basics of **C++** (Data Structures, OOP, Algorithms & Problem Solving)
 - 🌱 &nbsp;Currently practicing **GitHub** for version control
 - 💬 &nbsp;Ask me about **C++ basics**
+- - 💬 &nbsp;Ask me about **C# basics**
 - 📫 &nbsp;Reach me at: **bilalalmaqtari65@gmail.com**
 
 <br>
